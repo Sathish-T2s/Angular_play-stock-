@@ -1,4 +1,4 @@
-# Sample Application using StockMarket to show some important features on NG.
+# Sample Application on angular to show some important features on NG.
 
 # Code push is not alimited for anyone. Please feel free to utilize this.
 
