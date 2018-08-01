@@ -1,28 +1,28 @@
-# Sample Application using StockMarket to show some important features on NG.
+# StockMarket
 
-# Code push is not alimited for anyone. Please feel free to utilize this.
+This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 1.0.0.
 
-Install the Cli, Pretty much everything wraps on the basic structure inside CLI itself[Angular CLI](https://github.com/angular/angular-cli) version 1.0.0.
+## Development server
 
-## server running on Lite(Development)
+Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files.
 
-Run `ng serve` for a dev server. Go to `http://localhost:4200/`. 
-
-## To create a new component like sidebar.
+## Code scaffolding
 
 Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive/pipe/service/class/module`.
 
-## Production
+## Build
 
 Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory. Use the `-prod` flag for a production build.
 
-## For UnitTests(Already Cli will provide that, but if u want to write test on your then its your own go :-P)
+## Running unit tests
 
 Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
 
-## End -to - end is also already given by angular cli.
+## Running end-to-end tests
 
 Run `ng e2e` to execute the end-to-end tests via [Protractor](http://www.protractortest.org/).
 Before running the tests make sure you are serving the app via `ng serve`.
 
-# Stay tuned for next update.
+## Further help
+
+To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI README](https://github.com/angular/angular-cli/blob/master/README.md).
